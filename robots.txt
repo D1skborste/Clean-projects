@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /port-scanner/
+Disallow: /Terraform-example-configs/
+Disallow: /tic-tac-toe/
+Disallow: /*/
+Disallow: /*
+Disallow: /tree/main/Terraform-example-configs
+Disallow: /tree/main/port-scanner/
+Disallow: /tree/main/tic-tac-toe/
